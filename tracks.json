@@ -1,14 +1,12 @@
 [
   {
-    "id": "1",
-    "title": "My First Song",
-    "artist": "Me",
+    "title": "Song 1",
+    "artist": "Artist A",
     "url": "https://github.com/Heavendart888/musicapp/audio/song1.mp3"
   },
   {
-    "id": "2",
-    "title": "Second Song",
-    "artist": "Me",
+    "title": "Song 2",
+    "artist": "Artist B",
     "url": "https://github.com/Heavendart888/musicapp/audio/song2.mp3"
   }
 ]
