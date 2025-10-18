@@ -2,11 +2,11 @@
   {
     "title": "Song 1",
     "artist": "Artist A",
-    "url": "https://github.com/Heavendart888/musicapp/audio/song1.mp3"
+    "url": "https://raw.githubusercontent.com/Heavendart888/musicapp/main/audio/song1.mp3"
   },
   {
     "title": "Song 2",
     "artist": "Artist B",
-    "url": "https://github.com/Heavendart888/musicapp/audio/song2.mp3"
+    "url": "https://raw.githubusercontent.com/Heavendart888/musicapp/main/audio/song2.mp3"
   }
 ]
